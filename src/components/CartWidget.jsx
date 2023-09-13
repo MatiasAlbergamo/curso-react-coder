@@ -6,7 +6,9 @@ return (
     <div>
         <Flex>
             <Box>
-                <span className="material-symbols-outlined">shopping_cart</span>
+                <span className="material-symbols-outlined">
+                    shopping_cart
+                </span>
             </Box>
             <Divider/>
             <Box>
